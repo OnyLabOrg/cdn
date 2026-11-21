@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="177 177 900 900" width="512" height="512">
+  <defs>
+    <mask id="cuts" maskUnits="userSpaceOnUse" x="177" y="177" width="900" height="900">
+      <rect x="177" y="177" width="900" height="900" fill="#FFFFFF"/>
+      <g fill="#000000">
+        <circle cx="296" cy="497" r="109"/>
+        <circle cx="627" cy="487" r="119"/>
+        <circle cx="958" cy="497" r="109"/>
+        <circle cx="457" cy="506.5" r="73.5"/>
+        <circle cx="797" cy="506.5" r="73.5"/>
+      </g>
+    </mask>
+  </defs>
+  <path fill="#FCE7F3" d="M440 300 H814 L880 500 H969 V610 H285 V500 H374 Z"/>
+  <path fill="#DB2777" mask="url(#cuts)" d="M285 540 H969 V930 A80 80 0 0 1 889 1010 H365 A80 80 0 0 1 285 930 Z"/>
+  <path fill="#FCE7F3" d="M381 665 H520 A22 22 0 0 1 542 687 V952 A10 10 0 0 1 532 962 H369 A10 10 0 0 1 359 952 V687 A22 22 0 0 1 381 665 Z"/>
+  <rect x="466" y="771" width="41" height="97" rx="20.5" fill="#DB2777"/>
+  <rect x="599" y="664" width="296" height="224" rx="22" fill="#FCE7F3"/>
+  <path fill="#DB2777"
+        d="M337 268 C347 252 361 243 377 243 H877 C893 243 907 252 917 268 L1031.7 450.8 A87 87 0 1 1 875.2 523.6 L806 308 H699 L723 473 A97 97 0 1 1 531 473 L555 308 H448 L378.8 523.6 A87 87 0 1 1 222.3 450.8 Z"/>
+</svg>
