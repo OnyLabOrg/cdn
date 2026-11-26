@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="177 177 900 900" width="512" height="512">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="177 177 3210 900" width="428" height="120">
   <defs>
     <mask id="cuts" maskUnits="userSpaceOnUse" x="177" y="177" width="900" height="900">
       <rect x="177" y="177" width="900" height="900" fill="#FFFFFF"/>
@@ -18,4 +18,5 @@
   <rect x="599" y="664" width="296" height="224" rx="22" fill="#FCE7F3"/>
   <path fill="#DB2777"
         d="M337 268 C347 252 361 243 377 243 H877 C893 243 907 252 917 268 L1031.7 450.8 A87 87 0 1 1 875.2 523.6 L806 308 H699 L723 473 A97 97 0 1 1 531 473 L555 308 H448 L378.8 523.6 A87 87 0 1 1 222.3 450.8 Z"/>
+  <text id="wordmark" x="1150" y="775" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="700" font-size="420"><tspan fill="#DB2777">Order</tspan><tspan fill="#1E293B">&amp;Pay</tspan></text>
 </svg>
